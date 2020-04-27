@@ -1,4 +1,5 @@
 # convertmymoney
- Conversão de Dolar em Reais
+Curso FullStack DevPleno Semana01
+Conversão de Dolar em Reais
  
- Desenvolvido no curso FullStack da DevPleno
+ 
