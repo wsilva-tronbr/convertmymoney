@@ -26,8 +26,8 @@ app.get('/cotacao', (req, res) => {
         })
     }
 })
-
-app.listen('3000', err => {
+var port = process.env.PORT || 8000
+app.listen(port, err => {
     if(err){
         console.log('Erro:', err)
     } else {
